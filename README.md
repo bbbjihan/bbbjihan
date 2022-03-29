@@ -4,16 +4,16 @@
   <p align="center"> Welcome to JIHAN's github </p>
 
 </p align="center">
-  📚EDUCATION
-  KWANGWOON UNIVERSITY
-  MAJOR - Department of Law
-  MAJOR - Department of Computer Information Engineering
-  
-  🛠SKILLS
+  📚EDUCATION<br/>
+  KWANGWOON UNIVERSITY<br/>
+  MAJOR - Department of Law<br/>
+  MAJOR - Department of Computer Information Engineering<br/>
+  <br/>
+  🛠SKILLS<br/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
-  
-  ☎CONTACT
+  <br/>
+  ☎CONTACT<br/>
 </p>
 
 
