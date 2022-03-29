@@ -3,11 +3,21 @@
 </p>
   <p align="center"> Welcome to JIHAN's github </p>
 
+</ align="center">
+  📚EDUCATION
+  KWANGWOON UNIVERSITY
+  MAJOR - Department of Law
+  MAJOR - Department of Computer Information Engineering
+  
+  🛠SKILLS
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
+  
+  ☎CONTACT
+</p>
 
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbjihan)](https://github.com/bbbjihan/github-readme-stats)
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbbjihan)](https://solved.ac/bbbjihan)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbbjihan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
