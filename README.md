@@ -1,9 +1,9 @@
-<p align="center">
+<p align="right">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&customColorList=0,0,0,0,0&animation=fadeIn&fontColor=5e474c&fontAlign=70&rotate=-2">
 </p>
-  <p align="center"> Welcome to JIHAN's github </p>
+  <p align="right"> Welcome to JIHAN's github </p>
 <br/>
-<p align="center">
+<p align="right">
   📚EDUCATION<br/>
   KWANGWOON UNIVERSITY<br/>
   Department of Law<br/>
