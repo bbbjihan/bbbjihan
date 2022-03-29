@@ -3,7 +3,7 @@
 </p>
   <p align="center"> Welcome to JIHAN's github </p>
 
-</ align="center">
+</p align="center">
   📚EDUCATION
   KWANGWOON UNIVERSITY
   MAJOR - Department of Law
