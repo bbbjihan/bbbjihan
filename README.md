@@ -6,8 +6,8 @@
 <p align="center">
   📚EDUCATION<br/>
   KWANGWOON UNIVERSITY<br/>
-  MAJOR - Department of Law<br/>
-  MAJOR - Department of Computer Information Engineering<br/>
+  Department of Law<br/>
+  Department of Computer Information Engineering<br/>
   <br/>
   🛠SKILLS<br/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
