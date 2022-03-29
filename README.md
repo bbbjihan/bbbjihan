@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
   <br/>
   ☎CONTACT<br/>
+  <a href="mailto:parkjihan5253@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+  <a href="https://www.instagram.com/prokoreanism/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 </p>
 
 
