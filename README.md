@@ -5,8 +5,11 @@
   <br/>
    📚EDUCATION <br/>
   KWANGWOON UNIVERSITY<br/> 
-  Department of Law(2020~)<br/> 
-  Department of Computer Information Engineering(2020~)<br/>   
+  Department of Law(2020~2023)<br/> 
+  Department of Computer Information Engineering(2020~2023)<br/>   
+
+   WORK <br/>
+  Intellectus Corp. Software Engineer(2023.08 ~)<br/>
   <br/><br/>  
   ☎CONTACT<br/> 
   <a href="mailto:parkjihan5253@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
