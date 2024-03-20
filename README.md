@@ -7,8 +7,7 @@
   KWANGWOON UNIVERSITY<br/> 
   Department of Law(2020~2023)<br/> 
   Department of Computer Information Engineering(2020~2023)<br/>   
-
-   WORK <br/>
+   📚WORK <br/>
   Intellectus Corp. Software Engineer(2023.08 ~)<br/>
   <br/><br/>  
   ☎CONTACT<br/> 
