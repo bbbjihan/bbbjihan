@@ -15,6 +15,9 @@
   <a href="mailto:parkjihan5253@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
   <a href="https://www.instagram.com/prokoreanism/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
   <a href="https://velog.io/@bbbjihan"><img src="https://img.shields.io/badge/velog-FFFFFF?style=flat-square&logoColor=white"/></a> &nbsp
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 </p>
 
  
