@@ -26,9 +26,8 @@
 
 
 
-
-  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbbjihan)](https://solved.ac/bbbjihan)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbjihan)](https://github.com/bbbjihan/github-readme-stats)
 
+<img width="397" alt="스크린샷 2024-08-24 오후 2 39 45" src="https://github.com/user-attachments/assets/01334c14-f86b-4b31-9646-85ec2d07553e">
