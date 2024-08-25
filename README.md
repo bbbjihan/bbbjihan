@@ -15,9 +15,9 @@
   <a href="mailto:parkjihan5253@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
   <a href="https://www.instagram.com/prokoreanism/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
   <a href="https://velog.io/@bbbjihan"><img src="https://img.shields.io/badge/velog-FFFFFF?style=flat-square&logoColor=white"/></a> &nbsp
-  <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
+  <a href="https://hanghae99.spartacodingclub.kr/completion?roundId=6605020d2b0c0d8e4ce1a188">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  </a>
 </p>
 
  
@@ -29,5 +29,3 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbbjihan)](https://solved.ac/bbbjihan)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbjihan)](https://github.com/bbbjihan/github-readme-stats)
-
-<img width="397" alt="스크린샷 2024-08-24 오후 2 39 45" src="https://github.com/user-attachments/assets/01334c14-f86b-4b31-9646-85ec2d07553e">
