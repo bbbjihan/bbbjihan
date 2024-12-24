@@ -1,7 +1,7 @@
 <p align="right">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&customColorList=0,0,0,0,0&animation=fadeIn&fontColor=5e474c&fontAlign=70&rotate=-2"><br/>
   <br/>  
-  Welcome!<br/> 
+  Welcome!<br/>
   <br/>
    📚 Education <br/>
   KWANGWOON UNIVERSITY<br/> 
@@ -26,14 +26,15 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <br/>
+  <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbbjihan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <br/>
   <a href="https://hanghae99.spartacodingclub.kr/completion?roundId=6605020d2b0c0d8e4ce1a188">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
   </a>
+  <br/><br/>
+  <a href="https://solved.ac/bbbjihan">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bbbjihan" />
+    <img src="http://mazandi.herokuapp.com/api?handle=bbbjihan&theme=dark" />
+  </a>
 </p>
-
- 
- 
----
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbbjihan)](https://solved.ac/bbbjihan)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=bbbjihan&theme=dark)
