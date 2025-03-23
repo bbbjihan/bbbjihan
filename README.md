@@ -9,7 +9,8 @@
   Department of Computer Information Engineering(2020~2023)<br/>   
   <br/><br/>  
    📚 Career <br/>
-  Intellectus Corp. Software Engineer(2023.08 ~)<br/>
+  Intellectus Corp. Software Engineer (2023.08 ~ 2025.02)<br/>
+  Supertone (HYBE). Frontend Developer (2025.02 ~)<br/>
   <br/><br/>  
    📚 Links<br/> 
   <a href="mailto:parjihan.dev@gmail.com">
