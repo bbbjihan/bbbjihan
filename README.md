@@ -36,6 +36,5 @@
   <br/><br/>
   <a href="https://solved.ac/bbbjihan">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bbbjihan" />
-    <img src="http://mazandi.herokuapp.com/api?handle=bbbjihan&theme=dark" />
   </a>
 </p>
