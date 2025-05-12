@@ -4,7 +4,7 @@
   Welcome!<br/>
   <br/>
    📚 Education <br/>
-  KWANGWOON UNIVERSITY<br/> 
+  KwangWoon University<br/> 
   Department of Law(2020~2023)<br/> 
   Department of Computer Information Engineering(2020~2023)<br/>   
   <br/><br/>  
