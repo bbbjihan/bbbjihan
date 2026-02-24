@@ -28,7 +28,6 @@
   </a>
   <br/>
   <br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbbjihan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   <br/>
   <a href="https://hanghae99.spartacodingclub.kr/completion?roundId=6605020d2b0c0d8e4ce1a188">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
