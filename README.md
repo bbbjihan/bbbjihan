@@ -27,8 +27,6 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <br/>
-  <br/>
-  <br/>
   <a href="https://hanghae99.spartacodingclub.kr/completion?roundId=6605020d2b0c0d8e4ce1a188">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
   </a>
