@@ -10,7 +10,8 @@
   <br/><br/>  
    📚 Career <br/>
   Intellectus Corp. Software Engineer (2023.08 ~ 2025.02)<br/>
-  Supertone (HYBE). Frontend Developer (2025.02 ~)<br/>
+  Supertone (HYBE). Frontend Developer (2025.02 ~ 2026.02)<br/>
+  HYBE. Frontend Developer (2026.03 ~)<br/>
   <br/><br/>  
    📚 Links<br/> 
   <a href="mailto:parjihan.dev@gmail.com">
